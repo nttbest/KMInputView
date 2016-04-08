@@ -1,0 +1,6 @@
+framework module KMNetworking {
+  umbrella header "KMNetworking.h"
+
+  export *
+  module * { export * }
+}
